@@ -1,46 +1,104 @@
-# Getting Started with Create React App and Redux
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/AzizManaa/Disney-Clone">
+    <img src="https://disney-clone-bdb0c.web.app/assests/images/logo.svg" alt="Logo" width="80" height="80">
+  </a>
 
-## Available Scripts
+  <h3 align="center">Disney - Clone</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    This project is made using ReactJs
+    <br />
+    <br />
+    <a href="https://disney-clone-bdb0c.web.app/">View Demo</a>
+  </p>
+</div>
+<!-- ABOUT THE PROJECT -->
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The page will reload when you make changes.\
+This is the ReactJS Disney Plus Clone
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+- [![React][react.js]][react-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To run the project follow the instructions
+
+### Prerequisites
+
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Create Firebase project [https://firebase.google.com/](https://firebase.google.com/)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/AzizManaa/Disney-Clone.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Get your `firebase.js`
+
+   ```js
+   const apiKey = "ENTER YOUR API";
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+
+## npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
+## npm run build
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about deployment for more information.
 
-### `npm run eject`
+<!-- CONTACT -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Aziz Manaa - [@Website](https://aziz-manaa.com/) - af.azizmanaa@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Project Link: [https://github.com/AzizManaa/Disney-Clone](https://github.com/AzizManaa/Disney-Clone)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[product-screenshot]: https://camo.githubusercontent.com/02d7f93bfff93ed7c3d8988d0d7a5ec27228bd07f13c606aca2f46fc257a5a85/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f6469736e65792d706c75732e706e67
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
